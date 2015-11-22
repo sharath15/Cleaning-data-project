@@ -1,5 +1,7 @@
 # Cleaning-data-project
 
+Before you run the code make sure you have installed downloader and reshape2 Cran Packages
+
 The run_analysis.R code does the folloiwng:
 
 1. Downloads the compressed file to getdata.zip and unzips UCI HAR Dataset in the working directory if these are not already present
